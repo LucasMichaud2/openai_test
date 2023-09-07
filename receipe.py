@@ -1,4 +1,4 @@
-pip install openai
+!pip install openai
 
 import pandas as pd
 import numpy as np
